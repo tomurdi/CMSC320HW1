@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+By using the rebase command, one is able to incorporate modifications from one branch to another
+On the other hand, the merge command merges two branches together
